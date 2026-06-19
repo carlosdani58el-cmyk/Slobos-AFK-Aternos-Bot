@@ -1,12 +1,12 @@
 {
-  "name": "Online server",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "YuseGameYToficial.aternos.me",
+    "ip": "YuseGameYToficial.aternos.me:23613",
     "port": 23613,
     "version": "26.1.2",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Sonyvm123"
     },
     "anti-afk": {
       "enabled": true,
